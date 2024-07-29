@@ -13,3 +13,5 @@ gitbook/_book
 # node_modules 实时从 Github 下载，不存储在当前仓库
 # 避免因为仓库过大导致 Github Page 构建超时
 gitbook/node_modules
+/node_modules
+/_book
